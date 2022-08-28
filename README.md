@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mert</h1>
+<h1 align="center">Hi 👋🏻, I'm Mert</h1>
 <h3 align="center">A passionate Junior developer from 🇹🇷</h3>
 
 - 🔭 I’m currently working on [Lure Royal](http:/lureroyal.com)
